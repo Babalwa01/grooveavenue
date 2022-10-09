@@ -1,12 +1,14 @@
 import bg from "../assets/bg.png";
 import chef from "../assets/chef.png";
 import G from "../assets/G.png";
+import fun from "../assets/fun.jpg";
 import gallery01 from "../assets/gallery01.png";
 import gallery02 from "../assets/gallery02.png";
 import gallery03 from "../assets/gallery03.png";
 import gallery04 from "../assets/gallery04.png";
 import knife from "../assets/knife.png";
 import logo from "../assets/logo.png";
+import logo01 from "../assets/logo01.png";
 import menu from "../assets/menu.png";
 import overlaybg from "../assets/overlaybg.png";
 import spoon from "../assets/spoon.svg";
@@ -26,12 +28,14 @@ export default {
   bg,
   chef,
   G,
+  fun,
   gallery01,
   gallery02,
   gallery03,
   gallery04,
   knife,
   logo,
+  logo01,
   menu,
   overlaybg,
   spoon,
