@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/grooveavenue/static/css/main.eca6a063.css",
-    "main.js": "/grooveavenue/static/js/main.c39fe743.js",
+    "main.css": "/grooveavenue/static/css/main.cf07375c.css",
+    "main.js": "/grooveavenue/static/js/main.8488b57a.js",
     "static/media/meal.mp4": "/grooveavenue/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/grooveavenue/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/grooveavenue/static/media/welcome.d724eb984456d9c97470.png",
@@ -9,12 +9,21 @@
     "static/media/laurels.png": "/grooveavenue/static/media/laurels.e760828692795d4aafd7.png",
     "static/media/chef.png": "/grooveavenue/static/media/chef.02d6c5b61bfdc70303b4.png",
     "static/media/menu.png": "/grooveavenue/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/braai.jpg": "/grooveavenue/static/media/braai.db8bf356f4901bd52337.jpg",
+    "static/media/fun.jpg": "/grooveavenue/static/media/fun.8941937e8f23bdd3f081.jpg",
+    "static/media/club01.jpg": "/grooveavenue/static/media/club01.d86698dca2bf71e8db07.jpg",
     "static/media/gallery04.png": "/grooveavenue/static/media/gallery04.c36a695f8a3b9d311106.png",
     "static/media/gallery03.png": "/grooveavenue/static/media/gallery03.b2d50180e8590d4dd330.png",
     "static/media/gallery02.png": "/grooveavenue/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/dance.jpg": "/grooveavenue/static/media/dance.6c99f88b6d0d88288803.jpg",
+    "static/media/fishandchips.jpg": "/grooveavenue/static/media/fishandchips.33660db5a20281653852.jpg",
     "static/media/gallery01.png": "/grooveavenue/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/burger.jpg": "/grooveavenue/static/media/burger.7734179cbc73a129ed80.jpg",
     "static/media/knife.png": "/grooveavenue/static/media/knife.1121c0a5afb62acb31cb.png",
     "static/media/overlaybg.png": "/grooveavenue/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/logo01.png": "/grooveavenue/static/media/logo01.2d95abe18eb78231737a.png",
+    "static/media/forknknife.png": "/grooveavenue/static/media/forknknife.c1899f82427db3ea5719.png",
+    "static/media/signature.png": "/grooveavenue/static/media/signature.61662ec5179992d69437.png",
     "static/media/G.png": "/grooveavenue/static/media/G.b571eb82e589ec305ec9.png",
     "static/media/logo.png": "/grooveavenue/static/media/logo.0286194c03de0a90dac9.png",
     "static/media/award02.png": "/grooveavenue/static/media/award02.8bbdd51499739653b003.png",
@@ -24,11 +33,11 @@
     "static/media/sign.png": "/grooveavenue/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/grooveavenue/index.html",
     "static/media/spoon.svg": "/grooveavenue/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.eca6a063.css.map": "/grooveavenue/static/css/main.eca6a063.css.map",
-    "main.c39fe743.js.map": "/grooveavenue/static/js/main.c39fe743.js.map"
+    "main.cf07375c.css.map": "/grooveavenue/static/css/main.cf07375c.css.map",
+    "main.8488b57a.js.map": "/grooveavenue/static/js/main.8488b57a.js.map"
   },
   "entrypoints": [
-    "static/css/main.eca6a063.css",
-    "static/js/main.c39fe743.js"
+    "static/css/main.cf07375c.css",
+    "static/js/main.8488b57a.js"
   ]
 }
