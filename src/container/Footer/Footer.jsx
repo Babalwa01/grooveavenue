@@ -1,25 +1,25 @@
 import React from "react";
 import { FiFacebook, FiTwitter, FiInstagram } from "react-icons/fi";
-import { FooterOverlay, Newsletter } from "../../components";
+import { FooterOverlay } from "../../components";
 import { images } from "../../constants";
 import "./Footer.css";
 
 const Footer = () => (
   <div className="app__footer section__padding">
     <FooterOverlay />
-    <Newsletter />
+    {/* <Newsletter /> */}
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">4 Ploughmans Crescent, Cape Town, 7441</p>
+        <p className="p__opensans">4 Herschel Road, Sterkspruit, 9762</p>
+        <br />
         <p className="p__opensans">+27 76-123-4567</p>
         <p className="p__opensans">+27 76-123-4567</p>
       </div>
       <div className="app__footer-links_logo">
-        <img src={images.gericht} alt="footer_logo" />
+        <img src={images.logo01} alt="footer_logo" />
         <p className="p__opensans">
-          "The best way to find yourself is to lose yourself in the service of
-          others.”
+          "Be happy. Do anything, but let it produce joy”
         </p>
         <img
           src={images.spoon}

@@ -9,10 +9,13 @@ import { images } from "../../constants";
 import "./Gallery.css";
 
 const galleryImages = [
-  images.gallery01,
-  images.gallery02,
+  images.club01,
+  images.braai,
   images.gallery03,
-  images.gallery04,
+  images.dance,
+  images.fun,
+  images.fishandchips,
+  images.burger,
 ];
 
 const Gallery = () => {
@@ -31,15 +34,16 @@ const Gallery = () => {
   return (
     <div className="app__gallery flex__center">
       <div className="app__gallery-content">
-        <SubHeading title="Instagram" />
-        <h1 className="headtext__cormorant">Photo Gallery</h1>
+        <SubHeading title="Gallery" />
+        <h1 className="headtext__cormorant">Eat, Drink, Dance</h1>
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-          mattis ipsum turpis elit elit scelerisque egestas mu.
+          mattis ipsum turpis elit elit scelerisque egestas mu. Lorem ipsum
+          dolor sit amet, consectetur adipiscing elit.
         </p>
-        <button type="button" className="custom__button">
+        {/* <button type="button" className="custom__button">
           View More
-        </button>
+        </button> */}
       </div>
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>

@@ -17,14 +17,16 @@ const AboutUs = () => (
         <p className="p__opensans">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra
           adipiscing ultrices vulputate posuere tristique. In sed odio nec
-          aliquet eu proin mauris et.
+          aliquet eu proin mauris et. Lorem ipsum dolor sit amet, consectetur
+          adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere
+          tristique. In sed odio nec aliquet eu proin mauris et.
         </p>
-        <button type="button" className="custom__button">
+        {/* <button type="button" className="custom__button">
           Know More
-        </button>
+        </button> */}
       </div>
       <div className="app__aboutus-content_knife flex__center">
-        <img src={images.knife} alt="about_knife" />
+        <img src={images.forknknife} alt="about_knife" />
       </div>
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
@@ -32,11 +34,12 @@ const AboutUs = () => (
         <p className="p__opensans">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra
           adipiscing ultrices vulputate posuere tristique. In sed odio nec
-          aliquet eu proin mauris et.
+          aliquet eu proin mauris et. Lorem ipsum dolor sit amet, consectetur
+          adipiscing elit.
         </p>
-        <button type="button" className="custom__button">
+        {/* <button type="button" className="custom__button">
           Know More
-        </button>
+        </button> */}
       </div>
     </div>
   </div>

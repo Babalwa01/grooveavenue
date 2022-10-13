@@ -11,7 +11,7 @@ const FindUs = () => (
       </h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">
-          Lane Ends Bungalow, Whatcroft Hall Lane, Rudheath, CW9 7SG
+          4 Herschel Road, Sterkspruit, Eastern Cape, 9762
         </p>
         <p
           className="p__cormorant"
@@ -19,12 +19,12 @@ const FindUs = () => (
         >
           Opening Hours
         </p>
-        <p className="p__opensans">Mon - Fri: 10:00 am - 02:00 am</p>
-        <p className="p__opensans">Sat - Sun: 10:00 am - 03:00 am</p>
+        <p className="p__opensans">Mon - Fri: 10:00am - 02:00am</p>
+        <p className="p__opensans">Sat - Sun: 10:00am - 03:00am</p>
       </div>
-      <button className="custom__button" style={{ marginTop: "2rem" }}>
+      {/* <button className="custom__button" style={{ marginTop: "2rem" }}>
         Visit Us
-      </button>
+      </button> */}
     </div>
     <div className="app__wrapper_img">
       <img src={images.findus} alt="findus" />
