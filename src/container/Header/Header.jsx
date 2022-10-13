@@ -11,8 +11,7 @@ const Header = () => (
       <h1 className="app__header-h1">The Key to Fun & Dining</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
         Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat
-        morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet
-        tellus
+        morbi facilisis quam sapien. Et, penatibus aliquam amet tellus
       </p>
       {/* <button type="" className="custom__button" >
         Explore Menu
