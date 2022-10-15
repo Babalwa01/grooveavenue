@@ -17,7 +17,8 @@ const Footer = () => (
         <p className="p__opensans">+27 76-123-4567</p>
       </div>
       <div className="app__footer-links_logo">
-        <img src={images.logo01} alt="footer_logo" />
+        {/* <img src={images.logo01} alt="footer_logo" /> */}
+        <h1 className="app__footer-headtext">Groove Avenue</h1>
         <p className="p__opensans">
           "Be happy. Do anything, but let it produce joy”
         </p>
@@ -43,7 +44,7 @@ const Footer = () => (
     </div>
     <div className="footer__copyright">
       <p className="p__opensans">
-        {`${new Date().getFullYear()}`} GrooveAvenue. All Rights reserved.
+        {`${new Date().getFullYear()}`} Groove Avenue. All Rights reserved.
       </p>
     </div>
   </div>
