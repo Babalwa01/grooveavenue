@@ -27,7 +27,7 @@ a {
 }
 
 body {
-  background-color: var(--color-black);
+  background: var(--color-black);
 }
 
 .slide-bottom {

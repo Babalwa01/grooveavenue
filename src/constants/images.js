@@ -16,6 +16,7 @@ import forknknife from "../assets/forknknife.png";
 import logo from "../assets/logo.png";
 import logo01 from "../assets/logo01.png";
 import menu from "../assets/menu.png";
+import menu01 from "../assets/menu01.png";
 import overlaybg from "../assets/overlaybg.png";
 import spoon from "../assets/spoon.svg";
 import welcome from "../assets/welcome.png";
@@ -50,6 +51,7 @@ export default {
   logo,
   logo01,
   menu,
+  menu01,
   overlaybg,
   spoon,
   welcome,
