@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/grooveavenue/static/css/main.de04a425.css",
-    "main.js": "/grooveavenue/static/js/main.0e668f1b.js",
+    "main.css": "/grooveavenue/static/css/main.c3f2af6f.css",
+    "main.js": "/grooveavenue/static/js/main.3349aff9.js",
     "static/media/meal.mp4": "/grooveavenue/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/grooveavenue/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/grooveavenue/static/media/welcome.d724eb984456d9c97470.png",
@@ -30,11 +30,11 @@
     "static/media/sign.png": "/grooveavenue/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/grooveavenue/index.html",
     "static/media/spoon.svg": "/grooveavenue/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.de04a425.css.map": "/grooveavenue/static/css/main.de04a425.css.map",
-    "main.0e668f1b.js.map": "/grooveavenue/static/js/main.0e668f1b.js.map"
+    "main.c3f2af6f.css.map": "/grooveavenue/static/css/main.c3f2af6f.css.map",
+    "main.3349aff9.js.map": "/grooveavenue/static/js/main.3349aff9.js.map"
   },
   "entrypoints": [
-    "static/css/main.de04a425.css",
-    "static/js/main.0e668f1b.js"
+    "static/css/main.c3f2af6f.css",
+    "static/js/main.3349aff9.js"
   ]
 }
