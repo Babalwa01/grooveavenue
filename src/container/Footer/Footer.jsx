@@ -29,9 +29,9 @@ const Footer = () => (
           style={{ marginTop: 15 }}
         />
         <div className="app__footer-links_icons">
-          <FiFacebook />
-          <FiTwitter />
-          <FiInstagram />
+          <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><FiFacebook /></a>
+          <a href="https://twitter.com/" target="_blank" rel="noreferrer"><FiTwitter /></a>
+          <a href="https://www.instagram.com/" target="_blank" rel="noreferrer"><FiInstagram /></a>
         </div>
       </div>
       <div className="app__footer-links_work">
